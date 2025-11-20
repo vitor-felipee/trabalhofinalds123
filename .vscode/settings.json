@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "stdbool.h": "c",
+    "cliente.h": "c",
+    "ids.h": "c",
+    "vendedor.h": "c",
+    "relatorios.h": "c"
+  }
+}
